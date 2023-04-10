@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "name": "Sản phẩm vừa thêm 1 thee",
+      "id": 4
+    },
+    {
+      "name": "Sản phẩm vừa thêm 1 thee",
+      "id": 5
+    },
+    {
+      "name": "Sản phẩm vừa thêm 1 thee",
+      "id": 6
+    }
+  ]
+}
